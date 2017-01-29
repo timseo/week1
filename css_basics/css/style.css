@@ -1,0 +1,26 @@
+body {
+  background: grey;
+}
+
+p {
+  color: orange;
+}
+
+div {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+h1 {
+  color: green;
+}
+
+.main-headline {
+  color: red;
+
+}
+
+#main-headline {
+  color: blue;
+}
